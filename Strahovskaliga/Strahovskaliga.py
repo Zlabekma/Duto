@@ -38,39 +38,27 @@ else:
 import requests
 from bs4 import BeautifulSoup
 
-# Read team names and URLs from names_urls.txt
 with open('teams_urls.txt', 'r') as file:
     lines = file.readlines()
 
-# Process each line
-for line in lines:
-    team_name, url = line.strip().split('\t')
-    response = requests.get(url + '&YID=44')  # Access the URL with added &YID=44
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        # Extract opponent and scores from the HTML
-        opponent = soup.find('a', href=lambda x: x and 'TID=' in x).text.strip()
-        score_elements = soup.find_all('h4')
-        scores = [element.text.strip() for element in score_elements if ':' in element.text]
-        # Save to txt file
-        with open('output.txt', 'a') as output_file:
-            for score in scores:
-                output_file.write(f'{team_name} {score} {opponent}\n')
+team_info_set = set()
 
-# %%
-# Process each line
 for line in lines:
     team_name, url = line.strip().split('\t')
-    response = requests.get(url + '&YID=44')  # Access the URL with added &YID=44
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'html.parser')
-        # Extract opponent and scores from the HTML
-        opponent = soup.find('a', href=lambda x: x and 'TID=' in x).text.strip()
-        score_elements = soup.find_all('h4')
-        scores = [element.text.strip() for element in score_elements if ':' in element.text]
-        # Extract only the scores without the date
-        clean_scores = [score.split('<br/>')[-1].strip().split()[-1] for score in scores]
-        # Save to txt file
-        with open('output.txt', 'a') as output_file:
-            for score in clean_scores:
-                output_file.write(f'{team_name} {score} {opponent}\n')
+    response = requests.get(url + '&YID=44')
+    soup = BeautifulSoup(response.content, 'html.parser')
+    target_div = soup.find('div', {'class': 'pole', 'id': 'zapasySmall'})
+
+    if target_div:
+        for row in target_div.select('div.pole table tbody tr'):
+            team = row.select('td:nth-of-type(1) strong')[0].get_text()
+            score = row.select('td:nth-of-type(2) h4')[0].get_text().split('\n')[2].strip()
+            opponent = row.select('td:nth-of-type(3) strong')[0].get_text()
+            team_info_set.add(tuple(sorted((team, score, opponent))))
+    else:
+        print(f"Target div not found in the HTML content for {team_name}")
+
+# Write the extracted unique information to a text file
+with open('unique_team_scores.txt', 'w') as file:
+    for info in sorted(team_info_set):
+        file.write(f"{info[1]} {info[0]} {info[2]}\n")
