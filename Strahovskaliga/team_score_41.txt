@@ -1,0 +1,105 @@
+Jaderný odpad 	 0 : 10 	 Pod vlivem
+Kriplovi hoši 	 0 : 20 	 Pod vlivem
+FC Perros  	 0 : 6 	 Kriplovi hoši
+Heveraboys 	 0 : 6 	 Pivopij
+Jaderný odpad 	 0 : 7 	 Trblblblblb
+FC Kouř a Pivo 	 1 : 0 	 Slabá vůle
+PH Maséři Milevsko 	 1 : 2 	 Usála Mi Úd
+TJ SIGMA Rodeo 	 1 : 2 	 inSane Tuberculosis
+Sojka Velešín 	 1 : 3 	 Čápi
+Čápi 	 1 : 3 	 Šlehaný jahody
+PH Maséři Milevsko 	 1 : 4 	 Usála Mi Úd
+Pivopij 	 1 : 4 	 Psi
+Sojka Velešín 	 1 : 4 	 Šlehaný jahody
+AC Gong CB 	 1 : 5 	 Peleho vnuci
+FC Žízeň 	 1 : 5 	 SK Piškopinky
+Dopravka United 	 1 : 9 	 FC Litrpůl
+Kriplovi hoši 	 10 : 0 	 Trblblblblb
+JBC  team B 	 10 : 1 	 Podlitiny
+Dopravka United 	 10 : 4 	 JBC team STrahov
+Ostré kulky 	 10 : 5 	 Rychlá smrt
+Dopravka United 	 12 : 2 	 JBC  team B
+FC Perros  	 13 : 2 	 Jaderný odpad
+JBC  team B 	 16 : 4 	 JBC team STrahov
+Jaderný odpad 	 17 : 0 	 Newton Club
+Jaderný odpad 	 18 : 0 	 Zabijáci žraloků
+FC Žízeň 	 2 : 1 	 Tvoje máma
+FC Výpitci Kroměříž 	 2 : 11 	 Lestkov team
+Dopravka United 	 2 : 17 	 Pozdní sběr
+Dutošvarcova korporace 	 2 : 2 	 FC Alcoholtea
+FC Alcoholtea 	 2 : 2 	 Majklovi Svině
+Newton Club 	 2 : 2 	 Trblblblblb
+PH Maséři Milevsko 	 2 : 2 	 Tvoje máma
+FC Alcoholtea 	 2 : 3 	 Šlehaný jahody
+FC Výpitci Kroměříž 	 2 : 3 	 FC Žízeň
+AC Gong CB 	 2 : 4 	 Dřevouk
+FC Kouř a Pivo 	 2 : 4 	 TJ SIGMA Rodeo
+FC Alcoholtea 	 2 : 5 	 Čápi
+FC Alcoholtea 	 2 : 6 	 Sojka Velešín
+FC Bubeneč 	 2 : 6 	 FC Exekutoři
+LF2MED 	 2 : 6 	 Mámin Hemeroid
+Tvoje máma 	 2 : 6 	 Usála Mi Úd
+Dutošvarcova korporace 	 2 : 7 	 Sojka Velešín
+FC Kouř a Pivo 	 2 : 7 	 inSane Tuberculosis
+AC Gong CB 	 2 : 9 	 FC Exekutoři
+Dutošvarcova korporace 	 2 : 9 	 FC AuTiSTe
+FC Bubeneč 	 2 : 9 	 Peleho vnuci
+Kriplovi hoši 	 24 : 1 	 Newton Club
+Kriplovi hoši 	 25 : 0 	 Zabijáci žraloků
+AC Gong CB 	 3 : 1 	 FC Bubeneč
+PH Maséři Milevsko 	 3 : 1 	 SK Piškopinky
+Dopravka United 	 3 : 12 	 SK Ovados C
+Podlitiny 	 3 : 12 	 Pozdní sběr
+Dutošvarcova korporace 	 3 : 2 	 Šlehaný jahody
+PH Maséři Milevsko 	 3 : 2 	 Usála Mi Úd
+Mistři teorie 	 3 : 3 	 Peleho vnuci
+Peleho vnuci   	 3 : 4 	 Velký špatný
+FC Perros  	 3 : 5 	 Pod vlivem
+JBC  team B 	 3 : 5 	 SK Ovados C
+Pod vlivem 	 3 : 5 	 Sojka Velešín
+Mistři teorie 	 3 : 7 	 Velký špatný
+Newton Club 	 3 : 7 	 Zabijáci žraloků
+FC Alcoholtea 	 3 : 8 	 FC AuTiSTe
+Podlitiny 	 3 : 8 	 SK Ovados C
+FC Perros  	 4 : 1 	 Zabijáci žraloků
+Jaderný odpad 	 4 : 1 	 Kriplovi hoši
+Pod vlivem 	 4 : 1 	 Trblblblblb
+FC Žízeň 	 4 : 2 	 Usála Mi Úd
+FC Žízeň 	 4 : 3 	 Lestkov team
+Pivopij 	 4 : 4 	 Sedm tisíc dongů
+FC Bubeneč 	 4 : 9 	 Velký špatný
+FC Výpitci Kroměříž 	 5 : 2 	 Tvoje máma
+FC Žízeň 	 5 : 2 	 PH Maséři Milevsko
+Pod vlivem 	 5 : 2 	 Zabijáci žraloků
+JBC  team B 	 5 : 3 	 Pozdní sběr
+LF2MED 	 5 : 3 	 Nosiči ryb
+FC Kouř a Pivo 	 5 : 4 	 K.A.M.-božští psi
+FC Výpitci Kroměříž 	 5 : 4 	 Stráta Času
+FC Výpitci Kroměříž 	 5 : 4 	 Usála Mi Úd
+Newton Club 	 5 : 5 	 Pod vlivem
+FC Bubeneč 	 5 : 6 	 Mistři teorie
+Slavoj Nechvalice 	 5 : 8 	 Sojka Velešín
+Ostré kulky 	 6 : 0 	 Pocemkamdeš
+Pod vlivem 	 6 : 0 	 Sojka Velešín
+Vakoveverky 	 6 : 0 	 XXX
+Dopravka United 	 6 : 1 	 Podlitiny
+FC Žízeň 	 6 : 1 	 Stráta Času
+PH Maséři Milevsko 	 6 : 1 	 Stráta Času
+FC Bubeneč 	 6 : 2 	 Krotitelé puchů
+FC Perros  	 6 : 2 	 Trblblblblb
+Dutošvarcova korporace 	 6 : 3 	 Majklovi Svině
+Heveraboys 	 6 : 3 	 Psi
+JBC  team B 	 6 : 8 	 Slavoj Nechvalice
+Trblblblblb 	 7 : 0 	 Zabijáci žraloků
+AC Gong CB 	 7 : 2 	 Krotitelé puchů
+AC Gong CB 	 7 : 2 	 Mistři teorie
+Dutošvarcova korporace 	 7 : 2 	 Čápi
+Heveraboys 	 7 : 2 	 Sedm tisíc dongů
+Pivopij 	 7 : 5 	 Rumové víly
+Podlitiny 	 7 : 8 	 Slavoj Nechvalice
+AC Gong CB 	 8 : 0 	 Velký špatný
+Dopravka United 	 8 : 10 	 Slavoj Nechvalice
+FC Perros  	 9 : 1 	 Newton Club
+FC Výpitci Kroměříž 	 9 : 1 	 PH Maséři Milevsko
+FC Výpitci Kroměříž 	 9 : 4 	 SK Piškopinky
+Heveraboys 	 9 : 6 	 Rumové víly

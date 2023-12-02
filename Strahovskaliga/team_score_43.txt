@@ -1,0 +1,158 @@
+Cortina extermina 	 0 : 2 	 Vakoveverky
+Mistři teorie 	 0 : 3 	 Peleho vnuci
+Garfield Lasang 	 0 : 6 	 Slavoj skluz
+Kriplovi hoši 	 0 : 8 	 Trblblblblb
+AC Sons of Anarchy 	 1 : 0 	 Dopravka United
+Cortina extermina 	 1 : 1 	 TJ Rapid Příkopy Muži
+Jaderný odpad 	 1 : 10 	 Trblblblblb
+Mistři teorie 	 1 : 10 	 Slavoj Nechvalice
+FC Bubeneč 	 1 : 14 	 Nosiči ryb
+Dopravka United 	 1 : 15 	 LF2MED
+AC Gong CB 	 1 : 2 	 Ostré kulky
+Kriplovi hoši 	 1 : 22 	 Ve čtyrech
+Cortina extermina 	 1 : 3 	 GK Sovičky
+Cortina extermina 	 1 : 3 	 Pod vlivem
+FC Prager Breunau 	 1 : 4 	 TJ Rapid Příkopy Muži
+FC Výpitci Kroměříž 	 1 : 4 	 Čápi
+FK Traktor Vidlákov 	 1 : 4 	 GK Sovičky
+Dopravka United 	 1 : 5 	 Podlitiny
+Dutošvarcova korporace 	 1 : 5 	 Srdcia východu
+Cortina extermina 	 1 : 7 	 Zabijáci žraloků
+FC Prager Breunau 	 1 : 7 	 Zabijáci žraloků
+PH Maséři Milevsko 	 1 : 8 	 SK Ovados C
+JBC  team B 	 10 : 1 	 Podlitiny
+JBC  team B 	 10 : 3 	 Lestkov team
+Trblblblblb 	 11 : 1 	 Ve čtyrech
+FC Perros  	 11 : 2 	 Jaderný odpad
+Trblblblblb 	 11 : 2 	 Zhubni
+FC Bubeneč 	 11 : 4 	 Mistři teorie
+FK Traktor Vidlákov 	 11 : 7 	 Zabijáci žraloků
+FC Prager Breunau 	 12 : 0 	 GK Sovičky
+Kriplovi hoši 	 12 : 0 	 Zhubni
+PH Maséři Milevsko 	 12 : 1 	 SK Mládský Pušky
+FC Prager Breunau 	 13 : 1 	 FK Traktor Vidlákov
+FC Alcoholtea 	 15 : 1 	 Kriplovi hoši
+FC Perros  	 16 : 2 	 Kriplovi hoši
+AC Sons of Anarchy 	 19 : 0 	 JBC  team B
+FC Perros  	 19 : 2 	 Nosiči ryb
+FC Kouř a Pivo 	 2 : 1 	 Srdcia východu
+FC Žízeň 	 2 : 1 	 inSane Tuberculosis
+Peleho vnuci   	 2 : 1 	 Sedm tisíc dongů
+Newton Club 	 2 : 10 	 Slavoj skluz
+Sojka Velešín 	 2 : 10 	 The Gamblers
+Pivopij 	 2 : 11 	 Rumové víly
+Podlitiny 	 2 : 11 	 SK Lab Rats
+AC Gong CB 	 2 : 2 	 Tvoje máma
+Vakoveverky 	 2 : 2 	 Zabijáci žraloků
+AC Gong CB 	 2 : 3 	 DreamTeam
+FK Traktor Vidlákov 	 2 : 3 	 Pod vlivem
+FC Alcoholtea 	 2 : 4 	 Zhubni
+Newton Club 	 2 : 4 	 Srdcia východu
+Heveraboys 	 2 : 5 	 inSane Tuberculosis
+PH Maséři Milevsko 	 2 : 5 	 Psi
+FC Kouř a Pivo 	 2 : 7 	 Slavoj skluz
+Pod vlivem 	 2 : 7 	 Zabijáci žraloků
+Heveraboys 	 2 : 8 	 Tvoje máma
+LF2MED 	 2 : 8 	 Lestkov team
+FC Bubeneč 	 2 : 9 	 Sedm tisíc dongů
+Pod vlivem 	 2 : 9 	 TJ Rapid Příkopy Muži
+Jaderný odpad 	 23 : 0 	 Zhubni
+FC Alcoholtea 	 3 : 1 	 FC Perros
+FC Alcoholtea 	 3 : 1 	 Garfield Lasang
+FC Alcoholtea 	 3 : 10 	 FC Litrpůl
+Jaderný odpad 	 3 : 13 	 Ve čtyrech
+AC Sons of Anarchy 	 3 : 14 	 LF2MED
+Dopravka United 	 3 : 2 	 FC BigHub
+Dutošvarcova korporace 	 3 : 2 	 FC Kouř a Pivo
+FC Výpitci Kroměříž 	 3 : 2 	 inSane Tuberculosis
+FC Žízeň 	 3 : 2 	 LF2MED
+FC Žízeň 	 3 : 2 	 Tvoje máma
+Pod vlivem 	 3 : 2 	 Tvoje máma
+AC Gong CB 	 3 : 3 	 FC Žízeň
+Dopravka United 	 3 : 3 	 Lestkov team
+FC Perros  	 3 : 3 	 Trblblblblb
+FC Výpitci Kroměříž 	 3 : 3 	 FC Žízeň
+AC Milan 	 3 : 4 	 Newton Club
+Heveraboys 	 3 : 4 	 Ostré kulky
+Newton Club 	 3 : 4 	 Real z Wishe
+Ostré kulky 	 3 : 4 	 inSane Tuberculosis
+Dutošvarcova korporace 	 3 : 5 	 Newton Club
+AC Milan 	 3 : 6 	 FC Kouř a Pivo
+AC Sons of Anarchy 	 3 : 6 	 FC BigHub
+FC Kouř a Pivo 	 3 : 6 	 Newton Club
+Jaderný odpad 	 3 : 6 	 Kriplovi hoši
+Pivopij 	 3 : 6 	 Real Dejvice
+LF2MED 	 3 : 7 	 Slavoj skluz
+FC BigHub 	 3 : 9 	 SK Lab Rats
+FC Perros  	 3 : 9 	 Ve čtyrech
+AC Gong CB 	 4 : 1 	 inSane Tuberculosis
+AC Sons of Anarchy 	 4 : 10 	 SK Lab Rats
+JBC  team B 	 4 : 10 	 SK Lab Rats
+AC Milan 	 4 : 12 	 Slavoj skluz
+Mistři teorie 	 4 : 2 	 Slavoj skluz
+Sojka Velešín 	 4 : 2 	 Tralalalala
+FC Bubeneč 	 4 : 3 	 Slavoj Nechvalice
+Garfield Lasang 	 4 : 3 	 Newton Club
+Mistři teorie 	 4 : 3 	 Čápi
+PH Maséři Milevsko 	 4 : 3 	 Slabá vůle
+AC Milan 	 4 : 4 	 Real z Wishe
+Cortina extermina 	 4 : 4 	 FK Traktor Vidlákov
+PH Maséři Milevsko 	 4 : 4 	 TJ SIGMA Rodeo
+Peleho vnuci   	 4 : 4 	 Čápi
+FC Bubeneč 	 4 : 5 	 Čápi
+FC Výpitci Kroměříž 	 4 : 5 	 Heveraboys
+FC Žízeň 	 4 : 5 	 Heveraboys
+FC Kouř a Pivo 	 4 : 6 	 Garfield Lasang
+FC Perros  	 4 : 6 	 Zhubni
+Sojka Velešín 	 4 : 7 	 Vraňare
+FC Prager Breunau 	 5 : 1 	 Vakoveverky
+FC Žízeň 	 5 : 1 	 Ostré kulky
+Ostré kulky 	 5 : 1 	 Tvoje máma
+Pod vlivem 	 5 : 1 	 Vakoveverky
+AC Gong CB 	 5 : 2 	 FC Výpitci Kroměříž
+AC Milan 	 5 : 2 	 Srdcia východu
+AC Sons of Anarchy 	 5 : 2 	 Lestkov team
+Cortina extermina 	 5 : 2 	 FC Prager Breunau
+FC Kouř a Pivo 	 5 : 2 	 Peleho vnuci
+FC Výpitci Kroměříž 	 5 : 2 	 Ostré kulky
+FC Výpitci Kroměříž 	 5 : 2 	 Tvoje máma
+FC Kouř a Pivo 	 5 : 3 	 Real z Wishe
+Mistři teorie 	 5 : 3 	 Sedm tisíc dongů
+Dutošvarcova korporace 	 5 : 4 	 Real z Wishe
+FC BigHub 	 5 : 4 	 Lestkov team
+Tvoje máma 	 5 : 4 	 inSane Tuberculosis
+AC Gong CB 	 5 : 5 	 Heveraboys
+FC Alcoholtea 	 5 : 5 	 Ve čtyrech
+Tralalalala 	 5 : 7 	 Vraňare
+FK Traktor Vidlákov 	 5 : 8 	 Ve čtyrech
+FK Traktor Vidlákov 	 6 : 0 	 TJ Rapid Příkopy Muži
+TJ Rapid Příkopy Muži 	 6 : 0 	 Zabijáci žraloků
+Dutošvarcova korporace 	 6 : 2 	 Slavoj skluz
+TJ Rapid Příkopy Muži 	 6 : 2 	 Vakoveverky
+AC Sons of Anarchy 	 6 : 3 	 Podlitiny
+Dutošvarcova korporace 	 6 : 3 	 Garfield Lasang
+LF2MED 	 6 : 4 	 SK Lab Rats
+Slavoj Nechvalice 	 6 : 4 	 Čápi
+AC Milan 	 6 : 5 	 Dutošvarcova korporace
+FK Traktor Vidlákov 	 6 : 6 	 Vakoveverky
+LF2MED 	 6 : 6 	 Podlitiny
+Mistři teorie 	 6 : 7 	 Nosiči ryb
+FC BigHub 	 7 : 0 	 LF2MED
+Dopravka United 	 7 : 2 	 JBC  team B
+FC Bubeneč 	 7 : 2 	 Peleho vnuci
+FC Prager Breunau 	 7 : 2 	 Pod vlivem
+Dopravka United 	 7 : 3 	 SK Lab Rats
+FK Traktor Vidlákov 	 7 : 3 	 Ostré kulky
+AC Gong CB 	 7 : 6 	 Ve čtyrech
+Real z Wishe 	 7 : 9 	 Srdcia východu
+Peleho vnuci   	 8 : 2 	 Slavoj Nechvalice
+Real z Wishe 	 8 : 3 	 Slavoj skluz
+AC Milan 	 8 : 5 	 Garfield Lasang
+FC BigHub 	 8 : 5 	 JBC  team B
+FC BigHub 	 8 : 5 	 Podlitiny
+FC Alcoholtea 	 9 : 1 	 Jaderný odpad
+JBC  team B 	 9 : 1 	 LF2MED
+AC Milan 	 9 : 2 	 Zabijáci žraloků
+FC Alcoholtea 	 9 : 2 	 Trblblblblb
+Garfield Lasang 	 9 : 4 	 Srdcia východu
+Garfield Lasang 	 9 : 5 	 Real z Wishe

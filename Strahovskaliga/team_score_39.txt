@@ -1,0 +1,76 @@
+AC Gong CB 	 0 : 0 	 FC Bubeneč
+AC Gong CB 	 0 : 0 	 FC Litrpůl
+AC Gong CB 	 0 : 0 	 ISC Šoumeni
+AC Gong CB 	 0 : 0 	 Krotitelé puchů
+AC Gong CB 	 0 : 0 	 Lisohlávky
+AC Gong CB 	 0 : 0 	 Slavoj Nechvalice
+Dopravka United 	 0 : 0 	 Dutošvarcova korporace
+Dopravka United 	 0 : 0 	 FC PCP
+Dopravka United 	 0 : 0 	 Pod vlivem
+Dutošvarcova korporace 	 0 : 0 	 Fanoušci ornitologie
+Dutošvarcova korporace 	 0 : 0 	 Pod vlivem
+Dutošvarcova korporace 	 0 : 0 	 Sedm tisíc dongů
+FC Alcoholtea 	 0 : 0 	 Hovězí pštrosi
+FC Alcoholtea 	 0 : 0 	 Majklovi Svině
+FC Alcoholtea 	 0 : 0 	 Pivní Odboj
+FC Bubeneč 	 0 : 0 	 FC Exekutoři
+FC Bubeneč 	 0 : 0 	 FC Litrpůl
+FC Bubeneč 	 0 : 0 	 ISC Šoumeni
+FC Bubeneč 	 0 : 0 	 Slavoj Nechvalice
+FC Výpitci Kroměříž 	 0 : 0 	 Fimotici
+FC Výpitci Kroměříž 	 0 : 0 	 Ostré kulky
+FC Výpitci Kroměříž 	 0 : 0 	 Podlitiny
+FC Výpitci Kroměříž 	 0 : 0 	 Tvoje máma
+FC Žízeň 	 0 : 0 	 FootSide
+FC Žízeň 	 0 : 0 	 JBC  team B
+FC Žízeň 	 0 : 0 	 Lestkov team
+FC Žízeň 	 0 : 0 	 Spartak Pelhřimov
+FC Žízeň 	 0 : 0 	 Stráta Času
+Heveraboys 	 0 : 0 	 JBC  team B
+Heveraboys 	 0 : 0 	 Lestkov team
+Heveraboys 	 0 : 0 	 Stráta Času
+JBC  team B 	 0 : 0 	 Spartak Pelhřimov
+JBC  team B 	 0 : 0 	 Stráta Času
+Jaderný odpad 	 0 : 0 	 Majklovi Svině
+Jaderný odpad 	 0 : 0 	 Pivní Odboj
+LF2MED 	 0 : 0 	 Tucet Špinavců
+Mistři teorie 	 0 : 0 	 Peleho vnuci
+Mistři teorie 	 0 : 0 	 Trblblblblb
+Mistři teorie 	 0 : 0 	 Čápi
+Ostré kulky 	 0 : 0 	 Podlitiny
+Ostré kulky 	 0 : 0 	 Srdcia východu
+Ostré kulky 	 0 : 0 	 Tvoje máma
+PH Maséři Milevsko 	 0 : 0 	 Rumové víly
+PH Maséři Milevsko 	 0 : 0 	 Sherwood night riders
+Peleho vnuci   	 0 : 0 	 Trblblblblb
+Peleho vnuci   	 0 : 0 	 Zlej se(n)
+Peleho vnuci   	 0 : 0 	 Čápi
+Pivopij 	 0 : 0 	 Trblblblblb
+Pivopij 	 0 : 0 	 Zlej se(n)
+Pivopij 	 0 : 0 	 Čápi
+Podlitiny 	 0 : 0 	 Srdcia východu
+Srdcia východu 	 0 : 0 	 Tvoje máma
+Velký špatný 	 0 : 0 	 Šlehaný jahody
+Dutošvarcova korporace 	 1 : 11 	 FC PCP
+Peleho vnuci   	 1 : 2 	 Pivopij
+Mistři teorie 	 1 : 6 	 Pivopij
+FC Žízeň 	 1 : 9 	 Heveraboys
+Mistři teorie 	 1 : 9 	 Zlej se(n)
+Pod vlivem 	 14 : 4 	 Sedm tisíc dongů
+Dopravka United 	 2 : 2 	 Fanoušci ornitologie
+Podlitiny 	 2 : 6 	 Tvoje máma
+Dutošvarcova korporace 	 2 : 9 	 Gumová nástraha
+Dopravka United 	 3 : 2 	 Sedm tisíc dongů
+FC Výpitci Kroměříž 	 3 : 3 	 Srdcia východu
+FC Bubeneč 	 3 : 5 	 Lisohlávky
+Tralalalala 	 4 : 11 	 Řitíři
+Heveraboys 	 4 : 2 	 Spartak Pelhřimov
+Vakoveverky 	 4 : 2 	 Zabijáci žraloků
+Trblblblblb 	 4 : 3 	 Zlej se(n)
+Dopravka United 	 4 : 4 	 Gumová nástraha
+AC Gong CB 	 4 : 5 	 FC Exekutoři
+FC Bubeneč 	 4 : 5 	 Krotitelé puchů
+JBC  team B 	 4 : 6 	 Lestkov team
+Trblblblblb 	 5 : 0 	 Čápi
+LF2MED 	 6 : 5 	 Slavoj Notor Suchdol
+FC Alcoholtea 	 8 : 2 	 Jaderný odpad
