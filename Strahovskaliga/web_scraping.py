@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+# %%
 base_url = 'https://strahovskaliga.cz'
 
 # Send a GET request to the URL
@@ -28,14 +29,12 @@ if response.status_code == 200:
     # Save the team names and URLs to a .txt file
     with open('teams_urls.txt', 'w') as file:
         for name, url in team_info:
-            file.write(f"{name}\t{url}\n")
+            file.write(f"{name} \t {url}\n")
 
 else:
     print('Failed to retrieve the webpage')
 
 # %%
-import requests
-from bs4 import BeautifulSoup
 
 with open('teams_urls.txt', 'r') as file:
     lines = file.readlines()
@@ -43,7 +42,7 @@ with open('teams_urls.txt', 'r') as file:
 # Iterate through YID values and handle potential non-existent pages
 
 # YID_max = 44
-for yid in range(40, 38, -1):
+for yid in range(44, 38, -1):
     team_info_set = set()  # Create a new set for each YID
     for line in lines:
         team_name, url = line.strip().split('\t')
@@ -70,33 +69,31 @@ for yid in range(40, 38, -1):
         for info in sorted(team_info_set):
             file.write(f"{info[1]} \t {info[0]} \t {info[2]}\n")
 
+
+
 # %%
-import os
+# there is a problem with orderding, we also remove any team that do not play anymore 
+team_names = set()
+with open('teams_urls.txt', 'r') as file:
+    for line in file:
+        team_name = line.split('\t')[0]
+        team_names.add(team_name)
 
-# Define the file names
-file_names = ['team_score_39.txt', 'team_score_40.txt']
+for yid in range(44, 38, -1):
+    filename = f'team_score_{yid}.txt'
+    try:
+        with open(filename, 'r') as file:
+            lines = file.readlines()
+            data = [tuple(line.strip().split('\t')) for line in lines if line.split('\t')[0] in team_names]
 
-# Function to switch the first and second element of each line
-def switch_elements(file_name):
-    with open(file_name, 'r') as file:
-        lines = file.readlines()
-    
-    new_lines = []
-    for line in lines:
-        elements = line.strip().split('\t')
-        if len(elements) >= 2 and elements[0].isdigit():
-            new_line = elements[1] + '\t' + elements[0] + '\t' + '\t'.join(elements[2:])
-            new_lines.append(new_line + '\n')
-        else:
-            new_lines.append(line)
-    
-    with open(file_name, 'w') as file:
-        file.writelines(new_lines)
+            # Check if the second line is in a different order
+            if len(data) > 1 and data[1][1] < data[0][1]:
+                data[0], data[1] = data[1], data[0]  
 
-# Process each file
-for file_name in file_names:
-    if os.path.exists(file_name):
-        switch_elements(file_name)
-    else:
-        print(f"The file {file_name} does not exist.")
+            sorted_data = sorted(data, key=lambda x: (x[1], x[0], x[2]))  
 
+        with open(filename, 'w') as file:
+            for item in sorted_data:
+                file.write('\t'.join(item) + '\n') 
+    except FileNotFoundError:
+        print(f"File {filename} does not exist.")
