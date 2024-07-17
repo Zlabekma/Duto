@@ -10,3 +10,5 @@ Need to have the files test and train from https://www.kaggle.com/datasets/anant
 ## Strahovskaliga
 
 Scrapes the matches from strahovská liga 4
+
+Only scraper works, rest is old a wrong.
